@@ -46,3 +46,12 @@ Future Enhancements
 - **User Authentication**: Adding user roles such as admin and student.
 - **Detailed Reports**: Generate detailed exam and student performance reports.
 - **UI Enhancement**: Convert to a graphical user interface (GUI) for improved user experience.
+
+
+HTML Files:
+
+Exam.html 
+index.html
+style.css 
+script.js 
+
