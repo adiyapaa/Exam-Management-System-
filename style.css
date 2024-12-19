@@ -1,0 +1,25 @@
+/* Body Styling */
+body {
+    background: linear-gradient(to bottom right, #1e3c72, #2a5298);
+    font-family: 'Georgia', serif;
+}
+
+/* Titles */
+.royal-title {
+    font-size: 2.5rem;
+    color: gold;
+    text-shadow: 1px 1px 5px black;
+}
+
+/* Form Styling */
+.login-box, .exam-container form {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #8a2be2;
+}
